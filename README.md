@@ -1,4 +1,4 @@
-# Unicore-ignition
+# Unicore-TermArt
 
 Open contribution and collaboration effort — zero-prerequisite builder starter kit for terminal computer vision, edge rendering, and hands-on engineering.
 
@@ -12,7 +12,7 @@ Open contribution and collaboration effort — zero-prerequisite builder starter
 1. **Clone the repository:**
    ```bash
    git clone https://github.com
-   cd Unicore-ignition
+   cd Unicore-TermArt
    ```
 
 2. **Install dependencies:**
