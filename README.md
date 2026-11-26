@@ -11,7 +11,7 @@ Open contribution and collaboration effort — zero-prerequisite builder starter
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/UnicoreORP/Unicore-TermArt.git
    cd Unicore-TermArt
    ```
 
